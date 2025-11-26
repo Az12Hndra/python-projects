@@ -1,5 +1,0 @@
-User 'admin' logged in successfully
-Failed password for user 'root'
-Failed password for user 'admin'
-User 'guest' logged in successfully
-Failed password for user 'root'
